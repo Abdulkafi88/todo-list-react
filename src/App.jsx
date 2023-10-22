@@ -1,11 +1,11 @@
 import React from 'react';
-import { Todooform } from './comp/Todooform'; 
-import  './App.css'
+import { MovieApp } from "./comp/MovieApp";
+import './App.css';
 
 const App = () => {
   return (
-    <div className='todo-app'>
-      <Todooform />
+    <div>
+      <MovieApp />
     </div>
   );
 };
