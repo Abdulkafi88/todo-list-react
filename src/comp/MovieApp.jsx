@@ -36,7 +36,7 @@ const MovieApp = (props) => {
   return (
     <div>
       <section className="container">
-        <h2>Popular Movies</h2>
+        <h2>Popular Movies my name is abdul</h2>
         <section className="search">
           <div className="container">
             <div id="alert"></div>
